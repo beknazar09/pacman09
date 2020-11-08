@@ -1,2 +1,2 @@
-# packman
-mini game with GUI in JavaFX
+*Mini game with JavaFX*
+
